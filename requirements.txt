@@ -1,0 +1,4 @@
+slack_sdk
+pytest
+flake8==6.0.0
+black==22.10.0
